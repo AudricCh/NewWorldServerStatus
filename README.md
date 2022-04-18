@@ -7,10 +7,6 @@ It is based on https://www.newworld.com/fr-fr/support/server-status
 
 ## Pull on your server
 
-### Link
-
-https://discord.com/api/oauth2/authorize?client_id=869262316053618748&permissions=2048&scope=bot
-
 ### Requirements
 
 You need to have the **manager server role** to use the link.
